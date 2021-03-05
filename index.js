@@ -49,7 +49,23 @@ function createManager() {
             message: 'What is the Github username for the Manager?'
         }
     ]).then(function () {
-        teamCreating();
+        inquirer.prompt([
+            {
+                type: 'list',
+                name: 'newemployee',
+                message: 'Would you like to add another employee?',
+                choices: ['Yes', 'No']
+            }
+        ]).then(function (answer) {
+            switch (answer.newemployee) {
+                case 'Yes':
+                    teamCreating();
+                    break;
+                case 'No':
+                    console.log("HTML page will be ready for you..");
+                    break;
+            }
+        })
     })
 }
 
@@ -76,7 +92,23 @@ function createEngineer() {
             message: 'What is the Github username for the Engineer?'
         }
     ]).then(function () {
-        teamCreating();
+        inquirer.prompt([
+            {
+                type: 'list',
+                name: 'newemployee',
+                message: 'Would you like to add another employee?',
+                choices: ['Yes', 'No']
+            }
+        ]).then(function (answer) {
+            switch (answer.newemployee) {
+                case 'Yes':
+                    teamCreating();
+                    break;
+                case 'No':
+                    console.log("HTML page will be ready for you..");
+                    break;
+            }
+        })
     })
 }
 
@@ -103,7 +135,23 @@ function createIntern() {
             message: 'What is the Github username for the Intern?'
         }
     ]).then(function () {
-        teamCreating();
+        inquirer.prompt([
+            {
+                type: 'list',
+                name: 'newemployee',
+                message: 'Would you like to add another employee?',
+                choices: ['Yes', 'No']
+            }
+        ]).then(function (answer) {
+            switch (answer.newemployee) {
+                case 'Yes':
+                    teamCreating();
+                    break;
+                case 'No':
+                    console.log("HTML page will be ready for you..");
+                    break;
+            }
+        })
     })
 }
 

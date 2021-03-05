@@ -1,5 +1,5 @@
 {
-  "name": "Team-Profile-Gen",
+  "name": "ProfileGenerator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TolgaS92/Team-Profile-Gen.git"
+    "url": "git+https://github.com/TolgaS92/ProfileGenerator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TolgaS92/Team-Profile-Gen/issues"
+    "url": "https://github.com/TolgaS92/ProfileGenerator/issues"
   },
-  "homepage": "https://github.com/TolgaS92/Team-Profile-Gen#readme"
+  "homepage": "https://github.com/TolgaS92/ProfileGenerator#readme"
 }

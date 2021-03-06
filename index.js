@@ -46,7 +46,7 @@ function createManager() {
         {
             type: 'input',
             name: 'managergithub',
-            message: 'What is the Github username for the Manager?'
+            message: 'What is the office number for Manager?'
         }
     ]).then(function () {
         inquirer.prompt([
@@ -132,7 +132,7 @@ function createIntern() {
         {
             type: 'input',
             name: 'interngithub',
-            message: 'What is the Github username for the Intern?'
+            message: 'What is the school name for Intern?'
         }
     ]).then(function () {
         inquirer.prompt([

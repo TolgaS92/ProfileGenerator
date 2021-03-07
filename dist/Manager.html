@@ -1,7 +1,7 @@
 <div class="col-sm-4 col-lg-4 mb-4">
     <div class="card">
         <div class="card-header bg-success text-white">
-            <h2 class="card-title">John</h2>
+            <h2 class="card-title">{{name}}</h2>
             <hr>
             <h4 class="card-text">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -10,15 +10,15 @@
                         d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1h-3zm0 1h4a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5z" />
                     <path
                         d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85v5.65z" />
-                </svg> Manager
+                </svg> {{role}}
             </h4>
         </div>
         <div class="card-body">
             <ul class="list-group">
-                <li class="list-group-item">ID: 3452</li>
-                <li class="list-group-item">Email: <a href="mailto:tolgasecme@icloud.com">tolgasecme@icloud.com</a>
+                <li class="list-group-item">ID: {{id}}</li>
+                <li class="list-group-item">Email: <a href="mailto:{{email}}">{{email}}</a>
                 </li>
-                <li class="list-group-item">Office Number: 1</li>
+                <li class="list-group-item">Office Number: {{officeNumber}}</li>
             </ul>
         </div>
     </div>

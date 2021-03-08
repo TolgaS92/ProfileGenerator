@@ -40,7 +40,8 @@ Profile Generator
 - THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu  
 - WHEN I decide to finish building my team 
 - THEN I exit the application, and the HTML is generated
-
+![Terminal](./Assets/Terminalquestions.png)
+![RenderedHtmlPAge](./Assets/GeneratedHTML.png)
 
 ## Credits
 - No credits
@@ -49,7 +50,7 @@ Profile Generator
 - No contributes.
 
 ## Tests
-- Tests are done for employee.js/intern.js/manager.js/engineer.js. And they are all inside of the tests file, and it can be check with terminal. They are all working properly.
+- Jest package used for Test,  done for employee.js/intern.js/manager.js/engineer.js. And they are all inside of the tests file, and it can be check with terminal. They are all working properly.
 
 ## <img src="https://icons.iconarchive.com/icons/social-media-icons/social-buntings/48/Aim-icon.png">  Questions
 - E-mail me for any questions [tolgasecme@icloud.com](mailto:tolgasecme@icloud.com)

@@ -11,10 +11,17 @@ Profile Generator
 6. [Contributing](#Contributing)
 7. [Tests](#Tests)
 8. [Questions](#Questions)
+## Libraries
+1. Bootstrap
+2. OOP
+3. Node.js
+
 ## Description 
 - Generating a website that displays the team members with their short information like github user id, email. 
+
 ## Installation
 - You will need to fork and clone the repo, after you have done these sections, you'll need to run app.js file in your terminal, and follow the questions, and put the information which you would like to provide.
+
 ## Usage
 - GIVEN a command-line application that accepts user input 
 - WHEN I am prompted for my team members and their information 
@@ -37,10 +44,13 @@ Profile Generator
 
 ## Credits
 - No credits
+
 ## Contributing
 - No contributes.
+
 ## Tests
 - Tests are done for employee.js/intern.js/manager.js/engineer.js. And they are all inside of the tests file, and it can be check with terminal. They are all working properly.
+
 ## <img src="https://icons.iconarchive.com/icons/social-media-icons/social-buntings/48/Aim-icon.png">  Questions
 - E-mail me for any questions [tolgasecme@icloud.com](mailto:tolgasecme@icloud.com)
 - Also you can find me on Github [TolgaS92](https://github.com/TolgaS92).

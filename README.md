@@ -1,16 +1,17 @@
 # Profile Generator
 
-Profile Generator
-
 ## Contents
-1. [Description](#Description)
-2. [Installation](#Installation)
-3. [Usage](#Usage)
-4. [Credits](#Credits)
-5. [License](#License)
-6. [Contributing](#Contributing)
-7. [Tests](#Tests)
-8. [Questions](#Questions)
+
+1. [Libraries](#Libraries)
+2. [Description](#Description)
+3. [Installation](#Installation)
+4. [Usage](#Usage)
+5. [Credits](#Credits)
+6. [License](#License)
+7. [Contributing](#Contributing)
+8. [Tests](#Tests)
+9. [Questions](#Questions)
+
 ## Libraries
 1. Bootstrap
 2. OOP

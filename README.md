@@ -11,6 +11,7 @@
 7. [Contributing](#Contributing)
 8. [Tests](#Tests)
 9. [Questions](#Questions)
+10. [WalkthroughVideo](#Walkthrough Video)
 
 ## Libraries
 1. Bootstrap

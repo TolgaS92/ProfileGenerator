@@ -11,7 +11,7 @@
 7. [Contributing](#Contributing)
 8. [Tests](#Tests)
 9. [Questions](#Questions)
-10. [WalkthroughVideo](#Walkthrough Video)
+9. [Video](#Video)
 
 ## Libraries
 1. Bootstrap
@@ -58,5 +58,5 @@
 - E-mail me for any questions [tolgasecme@icloud.com](mailto:tolgasecme@icloud.com)
 - Also you can find me on Github [TolgaS92](https://github.com/TolgaS92).
 
-## Walkthrough Video
+## Video
 [Profile Generator](https://drive.google.com/file/d/1S3BVNxQC4FdMYeQ5PpoEBzEQuRRNzTAU/view?usp=sharing)

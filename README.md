@@ -56,3 +56,6 @@
 ## <img src="https://icons.iconarchive.com/icons/social-media-icons/social-buntings/48/Aim-icon.png">  Questions
 - E-mail me for any questions [tolgasecme@icloud.com](mailto:tolgasecme@icloud.com)
 - Also you can find me on Github [TolgaS92](https://github.com/TolgaS92).
+
+## Walkthrough Video
+[Profile Generator](https://drive.google.com/file/d/1S3BVNxQC4FdMYeQ5PpoEBzEQuRRNzTAU/view?usp=sharing)

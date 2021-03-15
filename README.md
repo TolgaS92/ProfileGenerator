@@ -2,7 +2,7 @@
 
 ## Contents
 
-1. [Libraries](#Libraries)
+1. [Technologies-Used](#Technologies-Used)
 2. [Description](#Description)
 3. [Installation](#Installation)
 4. [Usage](#Usage)
@@ -12,11 +12,17 @@
 8. [Tests](#Tests)
 9. [Questions](#Questions)
 9. [Video](#Video)
+10. [Link-to-sample-HTMLPage](#Link-to-sample-HTMLPage)
 
-## Libraries
-1. Bootstrap
-2. OOP
-3. Node.js
+## Technologies-Used
+1. HTML5
+2. Javascript
+3. CSS3
+4. Node.js
+5. Node packages
+	* Inquirer
+	* Jest(for testing)
+    * OOP
 
 ## Description 
 - Generating a website that displays the team members with their short information like github user id, email. 
@@ -52,7 +58,8 @@
 - No contributes.
 
 ## Tests
-- Jest package used for Test,  done for employee.js/intern.js/manager.js/engineer.js. And they are all inside of the tests file, and it can be check with terminal. They are all working properly.
+- Jest package used for Test,  done for employee.js / intern.js / manager.js / engineer.js. And they are all inside of the tests file, and it can be check with terminal. They are all working properly.
+- ![TEST](./Assets/Testrun.png)
 
 ## <img src="https://icons.iconarchive.com/icons/social-media-icons/social-buntings/48/Aim-icon.png">  Questions
 - E-mail me for any questions [tolgasecme@icloud.com](mailto:tolgasecme@icloud.com)
@@ -60,3 +67,7 @@
 
 ## Video
 [Profile Generator](https://drive.google.com/file/d/1S3BVNxQC4FdMYeQ5PpoEBzEQuRRNzTAU/view?usp=sharing)
+
+## Link-to-sample-HTMLPage
+
+- [HTMLSAMPLE](https://github.com/TolgaS92/ProfileGenerator/blob/main/TeamProfilePage/TeamProfileGenerated.html)

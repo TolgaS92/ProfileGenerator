@@ -51,8 +51,8 @@
 - Also you can find me on Github [TolgaS92](https://github.com/TolgaS92).
 
 ## Video
-[Profile Generator](https://drive.google.com/file/d/1S3BVNxQC4FdMYeQ5PpoEBzEQuRRNzTAU/view?usp=sharing)
-[Test run](https://drive.google.com/file/d/1P06ykWdrleM0Nxm9kqm0CZupTJh1lipq/view?usp=sharing)
+1. [Profile Generator](https://drive.google.com/file/d/1S3BVNxQC4FdMYeQ5PpoEBzEQuRRNzTAU/view?usp=sharing)
+2. [Test run](https://drive.google.com/file/d/1P06ykWdrleM0Nxm9kqm0CZupTJh1lipq/view?usp=sharing)
 
 ## Link-to-sample-HTMLPage
 
